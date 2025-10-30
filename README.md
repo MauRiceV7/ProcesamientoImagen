@@ -3,3 +3,4 @@ Este es un pequeño ejemplo de procesamiento de imagenes con el uso de Open MP e
 
 En la carpeta de ejemplos se encuentran codigos de referencia usados para crear este ejemplo.
 
+ProcesamientoImagen
